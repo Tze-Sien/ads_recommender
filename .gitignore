@@ -1,0 +1,4 @@
+ads_recommendation.db
+venv/
+__pycache__/
+/models
